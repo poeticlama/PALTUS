@@ -62,7 +62,7 @@ Created README.md for the project, fixed prompt for LLM-model, finished design o
 ## Individual contribution of each participant
 
 **Sergey Knyazkin** 
-  - Created layout for all the pages for MVP
+  - Created layout for all the pages of MVP
   - Configured Pinia to maintain global state of an app
   - Configured Vue router
   - Configured Axios for HTTP requests
@@ -82,7 +82,7 @@ Created README.md for the project, fixed prompt for LLM-model, finished design o
   - Added LLM API integration to communicate with the user
 
 **Amir Fayzullin** 
-  - Fixed prompt for LLM model j
+  - Fixed prompt for LLM model 
   - Added system prompt for validation of user's inputs
 
 **Danil Demin** 
