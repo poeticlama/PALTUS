@@ -1,0 +1,84 @@
+# Practicum Project  
+PALTUS team. Report 3
+
+## Description of implemented MVP features and the functional user journey(s).
+
+### Features
+
+- An ability to generate and save a course based on user's parameters and willings.
+- An ability to walkthrough generated course.
+- An ability to track progress through marking subtopics as done/undone.
+- An ability to delete a course.
+- Error hadling:
+  - *frontend* - validation in form.
+  - *backend* - global exception handler, error response DTO, `EntityNotFoundException`.
+  - System prompt handles incorrect user's input.
+
+## Demonstration of the working MVP.
+
+Link to the Google Drive with a video of a demo: [Demo](сюда ссылку)
+
+## ML
+
+API of LLM model was used, special prompt is used to implement necessary functionality.
+
+## Internal demo.
+
+For the current state of our product, we have only basic functionality, for areas of immediate improvement we defined the following:
+
+  - Advanced error handling.
+  - Add description for subtopics.
+  - Add ability to add notes for subtopics.
+  - Add ability to scroll the sidebar in course view.
+  - Add navigation buttons for course view.
+  - Mark lesson as finished in course view.
+  - Add adaptive layout.
+  - Add authorization (probably).
+  - Add ability to edit course before saving it into user's courses.
+  - Add CI/CD for tests.
+
+## Weekly commitments
+
+### Individual contribution of each participant
+
+- Sergey Knyazkin
+  - [Logic of a home page](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/c11f3d1324c9db4cff5e4e5c3c7bcfd43d35f76e).
+  - Added requests [for course view](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/57d271bbe3c2ebf6e503cbe3ebcc0099793197e2), [for adding a course](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/7dc93b718e3ceace5ea73d48ed83a435c98dfbbe), [for Home page information](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/e09d4525c02e72133946fa43c7ae7d26ec4069ad), [for deleting a course](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/1c278f2e9226aa63fcb884c6665f31a5bcd869c6).
+  - Updated [frontend Dockerfile](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/a0fce64b15569d9f3f5b95aa02351079cbc2d001).
+  - [Fixed bug with a course topic prop](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/02216e4b396aa40ca29d0b4404903c257752354c).
+- Ramazan Gizamov
+  - Added relative font-sizing [commit](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/bfc99b9f9874fbe8acb8704685ea62427faa64b3).
+  - [Report for week 3](https://github.com/poeticlama/PALTUS/new/master/content/docs/2025/PALTUS/week3.md).
+- Aidar Sarvartdinov
+  - [Added CORS](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/c4c6b3e3d4af33f4f3a71083c3e26024c0b4462a).
+  - [Error handling on backend side](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/317176addc83722d5b4eab24d5ff5ca4a035cc09).
+- Igor Dubrovsky
+  - [GET request for dashboard](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/3e25acefe019224f2c3f7f80e8fd80099bc54c63).
+  - [Save last activity time for course then subtopic finished or course created](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/4180d299f0c2029c59cf42b51fec42fae83cc5c1).
+  - [Add ability to mark subtopic as finished](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/216c1df7ad858227e762a7847cad717c2a6082de).
+- Amir Fayzullin
+  - Added tests.
+
+## Plan for Next Week
+
+### *Frontend*
+
+- Add ability to scroll the sidebar in course view.
+- Add navigation buttons for course view.
+- Mark lesson as finished in course view.
+- Add adaptive layout.
+- Add description for subtopics.
+
+### *Backend*
+  - Add ability to edit course before saving it into user's courses.
+  - Advanced error handling.
+  - Add description for subtopics.
+  - Add authorization (probably).
+
+## Confirmation of the code’s operability
+
+We confirm that the code in the main branch:
+Run via docker-compose.
+
+
+
