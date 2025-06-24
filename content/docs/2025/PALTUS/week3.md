@@ -13,6 +13,48 @@ PALTUS team. Report 3
   - *frontend* - validation in form.
   - *backend* - global exception handler, error response DTO, `EntityNotFoundException`.
   - System prompt handles incorrect user's input.
+ 
+### Functional user journeys
+
+1. Course Creation Journey
+User Goal: Generate and save a personalized course based on their inputs.
+
+- User opens the website and get on the home page.
+
+- User clicks on "Create New Course".
+
+- User provides inputs (e.g., topic, difficulty level, duration).
+
+- Frontend validation ensures required fields are filled correctly (error handling).
+
+- User submits the form -> the system processes inputs and generates a structured course.
+
+- User reviews the generated course and clicks "Save."
+
+- The course is stored in their dashboard.
+
+2. Course Progress Tracking Journey
+User Goal: Track learning progress.
+
+- User navigates to their dashboard and selects a saved course.
+  
+- Course displays lessons in a sidebar and subtopics in lesson page.
+  
+- User clicks a checkbox next to a subtopic to toggle completion status.
+  
+- Backend updates progress and last activity time.
+
+3. Course Deletion Journey
+User Goal: Remove an unwanted/completed course.
+
+- User views their list of saved courses.
+  
+- User clicks a "Delete" button on the bottom of the course page.
+  
+- Frontend confirms the action.
+  
+- Backend processes the DELETE request -> course is removed from the dashboard.
+  
 
 ## Demonstration of the working MVP.
 
