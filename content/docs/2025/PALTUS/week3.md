@@ -16,7 +16,7 @@ PALTUS team. Report 3
  
 ### Functional user journeys
 
-1. Course Creation Journey
+1. Course Creation Journey<br><br>
 User Goal: Generate and save a personalized course based on their inputs.
 
 - User opens the website and get on the home page.
@@ -33,7 +33,7 @@ User Goal: Generate and save a personalized course based on their inputs.
 
 - The course is stored in their dashboard.
 
-2. Course Progress Tracking Journey
+2. Course Progress Tracking Journey<br><br>
 User Goal: Track learning progress.
 
 - User navigates to their dashboard and selects a saved course.
@@ -44,7 +44,7 @@ User Goal: Track learning progress.
   
 - Backend updates progress and last activity time.
 
-3. Course Deletion Journey
+3. Course Deletion Journey<br><br>
 User Goal: Remove an unwanted/completed course.
 
 - User views their list of saved courses.
