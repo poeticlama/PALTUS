@@ -46,7 +46,7 @@ User Goal: Remove an unwanted/completed course.
 
 ## Demonstration of the working MVP.
 
-Link to the Google Drive with a video of a demo: [Google Drive](https://drive.google.com/file/d/1U965BjmcHg4k0Sn7m1Pr5RkGVyV-7cxI/view?usp=sharing) or [YouTube](https://youtu.be/WMYTLf23UPk)
+Link to the video of a demo: [Google Drive](https://drive.google.com/file/d/1U965BjmcHg4k0Sn7m1Pr5RkGVyV-7cxI/view?usp=sharing) or [YouTube](https://youtu.be/WMYTLf23UPk)
 
 ## ML
 
@@ -87,7 +87,8 @@ For the current state of our product, we have only basic functionality, for area
   - [Save last activity time for course then subtopic finished or course created](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/4180d299f0c2029c59cf42b51fec42fae83cc5c1).
   - [Add ability to mark subtopic as finished](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/216c1df7ad858227e762a7847cad717c2a6082de).
 - Amir Fayzullin
-  - Added tests.
+  - [Unit test for StringListConverter ensure reliable data conversion](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/71f73d268275970df0de77fa17566944fa61007a).
+  - [Unit test Validates entity-DTO transformation logic in CourseMapper](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/6099af7a4109b346a7e472fe6ab0885adaed4b49)
 
 ## Plan for Next Week
 
@@ -103,7 +104,11 @@ For the current state of our product, we have only basic functionality, for area
   - Add ability to edit course before saving it into user's courses.
   - Advanced error handling.
   - Add description for subtopics.
-  - Add authorization (probably).
+  - Add authorization.
+
+### *DevOps*
+  - Configure frontend Dockerfile for build version
+  - Configure CI/CD
 
 ## Confirmation of the code’s operability
 
