@@ -46,7 +46,7 @@ User Goal: Remove an unwanted/completed course.
 
 ## Demonstration of the working MVP.
 
-Link to the Google Drive with a video of a demo: [Demo](сюда ссылку)
+Link to the Google Drive with a video of a demo: [Google Drive](https://drive.google.com/file/d/1U965BjmcHg4k0Sn7m1Pr5RkGVyV-7cxI/view?usp=sharing) or [YouTube](https://youtu.be/WMYTLf23UPk)
 
 ## ML
 
