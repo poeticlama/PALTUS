@@ -49,11 +49,12 @@ PALTUS team. Report 4
 
    - Block merge on test failures
    - Artifact upload for test reports
+5. Self-hosted CD
 
 ### Links to CI/CD configuration files
-[Tests folder](https://github.com/IU-Capstone-Project-2025/PALTUS/tree/dev/backend/src/test)
+[Tests folder](https://github.com/IU-Capstone-Project-2025/PALTUS/tree/main/backend/src/test)
 
-[CI](https://github.com/IU-Capstone-Project-2025/PALTUS/blob/dev/.github/workflows/ci.yml)
+[CI/CD](https://github.com/IU-Capstone-Project-2025/PALTUS/blob/main/.github/workflows/ci.yml)
 
 ## Deployment
 
@@ -75,11 +76,9 @@ Infrastructure Provisioning:
 | Frontend            | 5175:5173      | Hot-reload enabled          | Backend service     |
 | Backend             | 8081:8080      | Spring profiles, DB config  | PostgreSQL          |
 
-### Access points
+### Access 
 
-- Frontend: http://localhost:5175
-- Backend API: http://localhost:8081/api
-- Database: Accessible internally at postgres:5432
+- http://10.90.137.167:5175/
 
 This staging environment provides:
 
@@ -102,7 +101,9 @@ The discussion was done during the least meeting of the 4th week, we are a bit b
   - [Add expansion panel with profile settings](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/3aa5809ae0d69c7070c1a333944d0617a976692a).
   - [Refactor CourseView](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/9a70e90f43f6ce7d05484bc269e4d45b7558e76b).
   - [Make scroll only on a sidebar](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/5102a5c8df8831013327ba5e989469175fa382d1).
+  - [Configure VM on vm.innopolis.university/](http://10.90.137.167:5175/)
 - Ramazan Gizamov
+  - [CD configuration](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/47d41ba67590b14d458220864074ab30dbdc2b01)
   - [Figma design for Quiz and Achievements pages](https://www.figma.com/proto/rvNoC6oOC2Xe5y7yWIhLuN/Demo-visuals?node-id=0-1&t=lkMobF4VojzpdDli-1).
   - [Report for week 4](https://github.com/poeticlama/PALTUS/new/master/content/docs/2025/PALTUS/week4.md).
 - Aidar Sarvartdinov
@@ -113,8 +114,9 @@ The discussion was done during the least meeting of the 4th week, we are a bit b
   - [Ability to change course during its creation](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/2122028a405931147213f3c8306ee94f15fa41a8).
   - [Add otes that user can edit and content generation for subtopic](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/108c6fb84f58798eb4bb15220138b10e6ab93440).
 - Amir Fayzullin
-  - [Fixed tests](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/cef58cb62486169ff81735848f481558d393c068).
-  - [CI: add CourseControllerTest](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/0ea7c16fe1c9d3c31c9cf31d73660cdbd48f643e).
+  - [Fixed tests](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/1492366198120431bc02dd71f990179c05f6580b).
+  - [Add CourseControllerTest](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/0ea7c16fe1c9d3c31c9cf31d73660cdbd48f643e).
+  - [Configure CI](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/cef58cb62486169ff81735848f481558d393c068)
 
 ## Plan for Next Week
 
