@@ -56,6 +56,9 @@ The prompt we use is changing in a good way to satisfy the conditions and expect
 - Sergey Knyazkin
   - [Rewrite requests for authorization](https://github.com/IU-Capstone-Project-2025/PALTUS/pull/40).
   - [Authorization and registration requests](https://github.com/IU-Capstone-Project-2025/PALTUS/pull/40).
+  - [Add notes to subtopics](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/e490be3977f1bcfeeb0522c637d6c43a920f96a5)
+  - [Add modal to fix course](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/824d0bb71071e3a4abc031dd5933aa1c8ff1d2d7)
+  - [Add text-area component](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/92a3dd56276753c0c5563650bff2a543fb981c85)
 - Ramazan Gizamov
   - [Awards page layout and styling](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/ef5086d95b640fffa40d14d1be58c48aa862ba71).
   - [Quiz page layout and styling](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/a33cb1efedb0fc8a8e3d4b90f06a3bee11fa7c6c).
