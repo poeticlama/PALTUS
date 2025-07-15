@@ -50,7 +50,7 @@ Run project via `docker compose --profile front-dev up`. You should get [GigaCha
 
 ## Presentation draft
 
-Link
+[Google Presentation](https://docs.google.com/presentation/d/1lrC7sYqLeRxuk9y8BXHxn9HLMQ02L2u9C7xS4bjsmcU/edit?usp=sharing)
 
 ## Weekly commitments
 
