@@ -13,7 +13,7 @@ PALTUS team. Report 6
 ## Final deliverables
 
 ### Project overview
-PALTUS is an AI-powered self-learning platform designed to revolutionize personalized education. The platform addresses key challenges in modern e-learning by providing:
+PALTUS is an AI-powered self-learning platform designed to change the way of personalized education. The platform addresses key challenges in modern e-learning by providing:
 
 - Adaptive Learning: AI-driven personalization that adjusts content and pace based on user choices and preferences.
 - Flexible Course Creation: Intuitive tools for educators and users to build, modify, and delete custom courses.
