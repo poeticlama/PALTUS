@@ -77,6 +77,7 @@ Link
 - Code cleaning
 - Fix bugs
 - Finish presentation
+- Add adaptive layouts
 
 ## Confirmation of the code’s operability
 
