@@ -74,7 +74,7 @@ Run project via `docker compose --profile front-dev up`. You should get [GigaCha
   - [Fixed bugs](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/d4decc594ae5f05af518ec783bce3eb6ac10c39c)
 - Amir Fayzullin
   - [Fix overall documentation](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/976fcc9a0e8432b4d231d39181180677924666b0)
-  - 
+  - Balanced gamification features
 
 ## Plan for Next Week
 
