@@ -6,7 +6,7 @@ PALTUS team. Report 6
 - Deployment:
 - Docs: [README.md](https://github.com/IU-Capstone-Project-2025/PALTUS/blob/main/README.md), [api docs]()
 - Design: [Figma](https://www.figma.com/proto/rvNoC6oOC2Xe5y7yWIhLuN/Demo-visuals?node-id=0-1&t=DavTpLzLzLBFOWSe-1)
-- Demo:
+- Demo: 
 - Kaiten board: 
   
 
@@ -57,20 +57,23 @@ Run project via `docker compose --profile front-dev up`. You should get [GigaCha
 ### Individual contribution of each participant
 
 - Sergey Knyazkin
-  - d
-  - 
+  - [Added chat interaction inside the lesson](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/9cd3840af830e49dcf6965eb5afd0723a54de098)
+  - [Added quizzes](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/aaaecb7161e1f6a3a343d6b1261cbb3ea094bf26)
+  - [Configured nginx for build version of frontend](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/bef3dfa67b6538eb760132294d46d8bcc8ff7828)
+  - [Fixed bugs](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/9ad8177251a6b4068a9156674820555c231117f8)
 - Ramazan Gizamov
   - Design finished - [Figma](https://www.figma.com/proto/rvNoC6oOC2Xe5y7yWIhLuN/Demo-visuals?node-id=0-1&t=DavTpLzLzLBFOWSe-1).
   - [Report for week 5](https://github.com/poeticlama/PALTUS/new/master/content/docs/2025/PALTUS/week5.md).
   - [Google Presentation](https://docs.google.com/presentation/d/1lrC7sYqLeRxuk9y8BXHxn9HLMQ02L2u9C7xS4bjsmcU/edit?usp=sharing).
 - Aidar Sarvartdinov
-  - d
-  - 
+  - [Added gamification features](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/4bc7b5cf26ab5319737d7662a2aaf55ad0d94446)
+  - [Configured library for backend docs](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/6a2a092124026798261dd7e88b64b499084dc942)
 - Igor Dubrovsky
-  - d
-  - 
+  - [Configured library for fixing bad LLM responses](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/182c683ce51d310aecd854166bd3f083d897c8f7)
+  - [Quiz functionality for backend](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/add999bb7f44ecc903529df3162b2a9a01e4c8a9)
+  - [Fixed bugs](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/d4decc594ae5f05af518ec783bce3eb6ac10c39c)
 - Amir Fayzullin
-  - d
+  - [Fix overall documentation](https://github.com/IU-Capstone-Project-2025/PALTUS/commit/976fcc9a0e8432b4d231d39181180677924666b0)
   - 
 
 ## Plan for Next Week
