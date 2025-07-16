@@ -62,7 +62,7 @@ Run project via `docker compose --profile front-dev up`. You should get [GigaCha
 - Ramazan Gizamov
   - Design finished - [Figma](https://www.figma.com/proto/rvNoC6oOC2Xe5y7yWIhLuN/Demo-visuals?node-id=0-1&t=DavTpLzLzLBFOWSe-1).
   - [Report for week 5](https://github.com/poeticlama/PALTUS/new/master/content/docs/2025/PALTUS/week5.md).
-  - [Google Presentation](https://docs.google.com/presentation/d/1lrC7sYqLeRxuk9y8BXHxn9HLMQ02L2u9C7xS4bjsmcU/edit?usp=sharing)
+  - [Google Presentation](https://docs.google.com/presentation/d/1lrC7sYqLeRxuk9y8BXHxn9HLMQ02L2u9C7xS4bjsmcU/edit?usp=sharing).
 - Aidar Sarvartdinov
   - d
   - 
