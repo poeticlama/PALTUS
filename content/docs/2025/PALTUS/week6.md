@@ -7,7 +7,7 @@ PALTUS team. Report 6
 - Docs: [README.md](https://github.com/IU-Capstone-Project-2025/PALTUS/blob/main/README.md), [api docs]()
 - Design: [Figma](https://www.figma.com/proto/rvNoC6oOC2Xe5y7yWIhLuN/Demo-visuals?node-id=0-1&t=DavTpLzLzLBFOWSe-1)
 - Demo: [Google Drive](https://drive.google.com/file/d/1V9wfvfOaQE4dwFPFoQbJqLrLlIAixLil/view?usp=sharing)
-- Kaiten board: 
+- Kaiten board: [Screenshots of the board](https://drive.google.com/drive/folders/16Y-MQXpZghhkoxADxd6L7syHdWsxzkpA?usp=sharing)
   
 
 ## Final deliverables
