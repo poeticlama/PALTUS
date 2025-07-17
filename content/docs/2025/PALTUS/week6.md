@@ -4,7 +4,7 @@ PALTUS team. Report 6
 ## Links
 
 - Deployment:
-- Docs: [README.md](https://github.com/IU-Capstone-Project-2025/PALTUS/blob/main/README.md), [api docs]()
+- Docs: [README.md](https://github.com/IU-Capstone-Project-2025/PALTUS/blob/main/README.md), [api docs](https://github.com/IU-Capstone-Project-2025/PALTUS/tree/docs/backend/src/main/java/com/paltus/backend)
 - Design: [Figma](https://www.figma.com/proto/rvNoC6oOC2Xe5y7yWIhLuN/Demo-visuals?node-id=0-1&t=DavTpLzLzLBFOWSe-1)
 - Demo: [Google Drive](https://drive.google.com/file/d/1V9wfvfOaQE4dwFPFoQbJqLrLlIAixLil/view?usp=sharing)
 - Kaiten board: [Screenshots of the board](https://drive.google.com/drive/folders/16Y-MQXpZghhkoxADxd6L7syHdWsxzkpA?usp=sharing)
